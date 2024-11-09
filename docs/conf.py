@@ -17,9 +17,9 @@
 
 # -- Project information -----------------------------------------------------
 
-project = "Basic Sphinx Example Project"
-copyright = "2022, Read the Docs core team"
-author = "Read the Docs core team"
+project = 'Documentation de PicturWall - Jeux'
+copyright = '2019-2024, Gatien DUBOC'
+author = 'Gatien DUBOC'
 
 
 # -- General configuration ---------------------------------------------------
