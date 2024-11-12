@@ -17,7 +17,7 @@
 
 # -- Project information -----------------------------------------------------
 
-project = 'Documentation de PicturWall - Jeux'
+project = 'Documentation des jeux de PicturWall'
 copyright = '2019-2024, Gatien DUBOC'
 author = 'Gatien DUBOC'
 

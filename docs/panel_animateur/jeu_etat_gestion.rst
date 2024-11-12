@@ -19,7 +19,7 @@ Afin de passer du mode de jeu **Initialisation** à l'état de jeu **Prêt**, il
    :figclass: align-center
 
 .. tip::
-   Avant de sélectionner le questionnaire, assurez-vous d'être dans le mode de jeu voulu. Pour changer de mode de jeu, suivez ce lien : :ref:`Changer de mode de jeu <panel-animateur_parametres-mode_de_jeu>`.
+   Avant de sélectionner le questionnaire, assurez-vous d'être dans le mode de jeu voulu. Pour changer de mode de jeu, suivez ce lien : :ref:`Changer de mode de jeu <panel-animateur_parametre-mode_de_jeu>`.
 
 ----
 

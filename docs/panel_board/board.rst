@@ -25,6 +25,7 @@ Lors du démarrage de PicturWall, ou lorsque vous débutez une nouvelle partie, 
 .. important::
    L'interface a été déssiné pour être utilisé sur un écran d'ordinateur, un vidéo-projecteur ou une télé au format paysage (format 16:9).
 
+.. _panel-board_jeu_son:
 
 Diffusion de son
 ==============================
@@ -33,3 +34,21 @@ Vous l'avez peut-être remarqué, mais dans la :ref:`personalisation des questio
 
 .. note::
     Sur l'interface de démo, les sons peuventr ne pas être joué, cela dépend de la politique de sécurité de votre navigateur web
+
+
+.. _panel-board_jeu_scoreboard:
+
+Affichage du scoreboard en mode jeu
+==========================================
+
+En mode jeu, l'animateur :ref:`peut choisir <panel-animateur_jeu_barre_action>` d'afficher le scoreboard en pleine partie.
+
+Côté Board, l'écran ressemblera à celui la :
+
+.. figure:: /panel_board/_images/scoreboard.png
+   :alt: Panel board - Affichage du scoreboard en pleine partie
+   :align: center
+   :width: 80%
+   :figclass: align-center
+
+   **Panel Board : Affichage du scoreboard en plein jeu**

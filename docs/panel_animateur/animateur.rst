@@ -4,7 +4,7 @@ Présentation du panel animateur
 ==================================
 
 Afin de pouvoir administrer la partie, vous allez devoir vous allez devoir vous connecter au réseau Wifi PicturWall 
-puis vous rendre sur l'URL suivante de picturwall : `picturwall.fr/admin <https://picturwall.tv/admin>`_
+puis vous rendre sur l'URL suivante de picturwall : `picturwall.tv/admin <https://picturwall.tv/admin>`_
 
 .. tip::
     Il existe un environnement de test hébergé sur internet à l'adresse suivante : `Environnement de test <http://cluster01.gatien-duboc.fr:3001/admin>`_
@@ -92,7 +92,7 @@ Lorsque qu'on est en mode jeu, peu importe le type de jeu nous nous retrouvons a
 
 On y trouve, de gauche à droite :
 
-* Un bouton pour passer à la prochaine question. Il existe aussi un :ref:`Passage automatique à la prochaine question lorsque tout les joueurs ont répondu <panel-animateur_parametres-prochaine_question>` lorsque nous sommes en mode de jeu QCM
+* Un bouton pour passer à la prochaine question. Il existe aussi un :ref:`Passage automatique à la prochaine question lorsque tout les joueurs ont répondu <panel-animateur_parametre-qcm-prochaine_question>` lorsque nous sommes en mode de jeu QCM
 * Un bouton pour afficher le scoreboard sur le board :ref:`Affichage du scoreboard sur le board en mode jeu <panel-board_jeu_scoreboard>`
 * Un bouton pour mettre le jeu en pause // reprendre le jeu :ref:`Affichage de l'état pause sur les différents panel <jeu-etat_pause>`
 * Un bouton pour afficher la question précédente côté animateur, joueur et board mais en empêchant les joueurs de répondre

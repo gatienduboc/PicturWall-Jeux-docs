@@ -75,10 +75,10 @@ Si le joueur valide ses réponses :
    **Panel Joueur : le joueur a validé ses choix**
    
 .. note::
-   Si l'animateur décide de :ref:`valider automatiquement le choix des joueurs <panel-animateur_parametre-choix>`, l'interface côté joueur sera figée lorsque l'utilisateur aura sélecitonnée le nombre de réponses attendues.
+   Si l'animateur décide de :ref:`valider automatiquement le choix des joueurs <panel-animateur_parametre-qcm-valider_reponses>`, l'interface côté joueur sera figée lorsque l'utilisateur aura sélecitonnée le nombre de réponses attendues.
 
 
-Lorsque le temps est écoulé, que tout les joueurs ont répondu à la question (:ref:`si le passage automatique à la prochaine question est sélectionnée <panel-animateur_parametres-prochaine_question>`), ou que l'animateur
+Lorsque le temps est écoulé, que tout les joueurs ont répondu à la question (:ref:`si le passage automatique à la prochaine question est sélectionnée <panel-animateur_parametre-qcm-prochaine_question>`), ou que l'animateur
 a choisi de passer à la prochaine question, nous voyons ceci côté joueur : 
 
 .. figure:: /mode_qcm/_images/joueur_reponses.png
@@ -121,7 +121,7 @@ L'interface board est découpée de la sorte :
 * Affichage de la question
 * Affichage des réponses
 
-Lorsque le temps est écoulé, que tout les joueurs ont répondu à la question (:ref:`si le passage automatique à la prochaine question est sélectionnée <panel-animateur_parametres-prochaine_question>`), ou que l'animateur
+Lorsque le temps est écoulé, que tout les joueurs ont répondu à la question (:ref:`si le passage automatique à la prochaine question est sélectionnée <panel-animateur_parametre-qcm-prochaine_question>`), ou que l'animateur
 a choisi de passer à la prochaine question, nous voyons ceci côté board : 
 
 .. figure:: /mode_qcm/_images/board_reponses.png
