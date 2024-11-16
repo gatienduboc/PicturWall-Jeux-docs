@@ -118,6 +118,9 @@ L'interface board est découpée de la sorte :
 * Affichage de la question
 * Liste des joueurs en file d'attente. Il sont dans l'ordre du premier au dernier ayant buzzé
 
+.. note::
+   Si une musique est configurée pour cette question, elle sera diffusée jusqu'à ce qu'un joueur soit en file d'attente.
+
 Le joueur en jaune est donc celui qui doit répondre à la question, tandis que le joueur en dessous doit se préparer à répondre si le premier à faux.
 
 Si l'animateur refuse la question d'un joueur, son pseudo apparaîtra brièvement en rouge, et le joueur du dessous passera en jaune : 
@@ -180,6 +183,11 @@ Maintenant, focalisons nous sur la partie de gestion de la question courante :
 * Affichage du temps restant, avec deux boutons pour ajouter ou retirer du temps
 * La question en cours
 * L'index de la question et le nombre total de question
+* La gestion de l'audio si une audio est configurée pour cette question :
+   * Lorsque qu'un joueur est en file d'attente, la musique s'arrête
+   * Si les réponses des joueurs en file d'attente ont été refusé, la musique reprend
+   * Un bouton est la pour remettre/arrêter la musique manuellement
+   * La musique est jouée sur le board est sur le panel animateur.
 * Une story (histoire) sur cette question
 * Le nombre de joueur ayant répondu / le nombre total de joueur (et le nombre de joueur manquant)
 * La liste des joueurs ayant buzzé, à gauche celui qui a buzzé en premier

@@ -120,6 +120,9 @@ L'interface board est découpée de la sorte :
 * Barre défilante du temps restant
 * Affichage de la question
 * Affichage des réponses
+  
+.. note::
+   Si une musique est configurée pour cette question, elle sera diffusée jusqu'à la fin de l'extrait ou jusqu'à temps que l'animateur stoppe la musique.
 
 Lorsque le temps est écoulé, que tout les joueurs ont répondu à la question (:ref:`si le passage automatique à la prochaine question est sélectionnée <panel-animateur_parametre-qcm-prochaine_question>`), ou que l'animateur
 a choisi de passer à la prochaine question, nous voyons ceci côté board : 
@@ -170,6 +173,7 @@ Maintenant, focalisons nous sur la partie de gestion de la question courante :
 * Affichage du temps restant, avec deux boutons pour ajouter ou retirer du temps
 * La question en cours
 * L'index de la question et le nombre total de question
+* La gestion de l'audio si une audio est configurée pour cette question. Un bouton est la pour remettre/arrêter la musique manuellement. La musique est jouée sur le board est sur le panel animateur.
 * Une story (histoire) sur cette question
 * Le nombre de joueur ayant répondu / le nombre total de joueur (et le nombre de joueur manquant)
 * L'affichage des réponses

@@ -224,6 +224,9 @@ Le mode *Pause* fige le jeu temporairement.
 |                      | du temps.                                  |
 +----------------------+--------------------------------------------+
 
+.. tip::
+   Si une musique était diffusée pour cette question, elle sera stoppée jusqu'à la reprise du jeu.
+
 .. figure:: /panel_animateur/_images/etat/pause.png
    :alt: Panel animateur - Pause
    :align: center
